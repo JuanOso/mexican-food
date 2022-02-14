@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/JuanOso/mexican-food/static/css/main.bf57e06c.css",
+    "main.js": "/JuanOso/mexican-food/static/js/main.99ef531e.js",
+    "static/media/logo.png": "/JuanOso/mexican-food/static/media/logo.1aec29a84269b14997f9.png",
+    "static/media/arroz con leche.png": "/JuanOso/mexican-food/static/media/arroz con leche.dc0bffc0adea68a7d32f.png",
+    "static/media/champurrado.png": "/JuanOso/mexican-food/static/media/champurrado.8c126d941881a2feb447.png",
+    "static/media/chocolate.png": "/JuanOso/mexican-food/static/media/chocolate.dd71d6a1a21168507a80.png",
+    "static/media/guayaba.png": "/JuanOso/mexican-food/static/media/guayaba.43eab2ea1e19fc33cd6a.png",
+    "static/media/pasas.png": "/JuanOso/mexican-food/static/media/pasas.e81303be8f6d2e31bdff.png",
+    "static/media/rajas.png": "/JuanOso/mexican-food/static/media/rajas.5b9dafa2dcc21fb5b80a.png",
+    "static/media/verde.png": "/JuanOso/mexican-food/static/media/verde.b57fd7562eb1129146d4.png",
+    "static/media/mole.png": "/JuanOso/mexican-food/static/media/mole.d580e213d09a3a9b6530.png",
+    "static/media/cafe.png": "/JuanOso/mexican-food/static/media/cafe.c3650f5bd1c3502927c5.png",
+    "static/media/piña.png": "/JuanOso/mexican-food/static/media/piña.49b528b354f76338a1ad.png",
+    "index.html": "/JuanOso/mexican-food/index.html",
+    "main.bf57e06c.css.map": "/JuanOso/mexican-food/static/css/main.bf57e06c.css.map",
+    "main.99ef531e.js.map": "/JuanOso/mexican-food/static/js/main.99ef531e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf57e06c.css",
+    "static/js/main.99ef531e.js"
+  ]
+}
